@@ -1,4 +1,4 @@
-[[Preacher Pendleton]]
+[[Phineas Pendleton (Preacher Pendleton)]]
 
 i 3 Fedelissimi:
 [[Fedelissimo 1]]
