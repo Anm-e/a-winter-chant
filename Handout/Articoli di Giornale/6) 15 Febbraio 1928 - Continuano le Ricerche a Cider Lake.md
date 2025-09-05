@@ -1,5 +1,5 @@
 
-CIDER LAKE – Le ricerche dei membri della Chiesa dell’Ultima Voce, scomparsi durante la tormenta dello scorso dicembre, continuano senza risultati. Squadre della contea e volontari hanno perlustrato boschi, rive e ruderi, senza trovare tracce di Pendleton e dei suoi tre discepoli: Samuel Soren Shepard, Caleb Cyrus Crane ed Ezekiel Elias Ember.
+CIDER LAKE – Le ricerche dei membri della Chiesa dell’Ultima Voce, scomparsi durante la tormenta dello scorso dicembre, continuano senza risultati. Squadre della contea e volontari hanno perlustrato boschi, rive e ruderi, senza trovare tracce di Pendleton e dei suoi tre discepoli: [[Samuel Shepard]], [[Kaylee Krane]] ed [[Ezekiel Elias Ember]].
 
 Nonostante l’impiego di cani da fiuto e segnali visivi, ogni tentativo si è rivelato vano. Gli abitanti riferiscono luci tremolanti tra gli alberi e echi di litanie nel vento, ma senza indicazioni concrete sul destino dei scomparsi.
 

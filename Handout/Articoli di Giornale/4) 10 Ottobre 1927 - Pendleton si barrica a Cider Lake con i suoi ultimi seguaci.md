@@ -3,11 +3,11 @@ CIDER LAKE - Dopo gli scontri dello scorso settembre tra le autorità e i membri
 
 Non è solo. Con lui vi sarebbero rimasti soltanto tre discepoli di assoluta fedeltà, i cui nomi sono stati identificati come:
 
-- Samuel Soren Shepard, già falegname di Woodstock, noto per aver abbandonato la famiglia per seguire il predicatore.
+- [[Samuel Shepard]], già falegname di Woodstock, noto per aver abbandonato la famiglia per seguire il predicatore.
     
-- Caleb Cyrus Crane, contadino della valle, ricordato dai vicini per un carattere cupo e solitario.
+- [[Kaylee Krane]], contadina della valle, ricordato dai vicini per un carattere cupo e solitario.
     
-- Ezekiel Elias Ember, originario di White River Junction, uomo di studi, che secondo alcuni avrebbe messo la sua cultura al servizio della setta.  
+- [[Ezekiel Elias Ember]], originario di White River Junction, uomo di studi, che secondo alcuni avrebbe messo la sua cultura al servizio della setta.  
 
 Secondo alcuni testimoni, nelle ultime settimane i tre sarebbero stati visti muoversi furtivamente tra i boschi, trasportando viveri e legname. Altri giurano di aver udito cori sommessi provenire dalla struttura, simili a litanie notturne.
 

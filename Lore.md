@@ -3,8 +3,8 @@ nel 1921 [[Phineas Pendleton (Preacher Pendleton)]] riceve la visita di un uomo 
 nel 1925 nasce così la setta, nota come "chiesa dell'ultima voce", guidata dal predicatore[[Phineas Pendleton (Preacher Pendleton)]]. nel giro di pochi anni ottiene numerosi fedeli, ma dopo l'intervento delle froze dell'ordine, rimangono solo il predicatore e i suoi 3 fedelissimi. nell'agosto del 1927 si rinchiudono in una struttura simil-chiesa a Cider Lake, dalla quale spariranno misteriosamente in seguito ad una tormenta nel 1929. 
 
 i suoi 3 fedelissimi:
-[[Fedelissimo 1]]
-[[Fedelissimo 2]]
-[[Fedelissimo 3]]
+[[Samuel Shepard]]
+[[Ezekiel Elias Ember]]
+[[Kaylee Krane]]
 
 

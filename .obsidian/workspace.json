@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "242b5be806db2974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Articoli di Giornale/6) 15 Febbraio 1928 - Continuano le Ricerche a Cider Lake.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6) 15 Febbraio 1928 - Continuano le Ricerche a Cider Lake"
-            }
-          },
-          {
-            "id": "a101cb2a1dd67f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diario di Pendleton/Diario di Pendleton.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Diario di Pendleton"
-            }
-          },
-          {
             "id": "fe84e724d8e7061c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC/Phineas Pendleton (Preacher Pendleton).md",
+                "file": "Handout/Articoli di Giornale/4) 10 Ottobre 1927 - Pendleton si barrica a Cider Lake con i suoi ultimi seguaci.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phineas Pendleton (Preacher Pendleton)"
+              "title": "4) 10 Ottobre 1927 - Pendleton si barrica a Cider Lake con i suoi ultimi seguaci"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,34 +169,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "a101cb2a1dd67f0f",
+  "active": "fe84e724d8e7061c",
   "lastOpenFiles": [
-    "Articoli di Giornale/6) 15 Febbraio 1928 - Continuano le Ricerche a Cider Lake.md",
-    "NPC/Phineas Pendleton (Preacher Pendleton).md",
-    "Diario di Pendleton/Diario di Pendleton.md",
-    "Articoli di Giornale/1) 15 ottobre 1921 - Misterioso predicatore raduna folle in piazzaF.md",
-    "Diario di Pendleton/Untitled",
-    "Diario di Pendleton",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Diario di Lewis/Diario di Lewis Lymann.md",
-    "img",
-    "Articoli di Giornale/7) 17 Giugno 1930 - La proprietà di Cider Lake ceduta a privato cittadino.md",
-    "Diario di Lewis",
-    "Articoli di Giornale/5) 29 Settembre 1927 - Scontro tra autorità e fedeli arresti a Cider Lake.md",
-    "Articoli di Giornale/6) 28 Dicembre 1927 - Tormenta su Cider Lake scompare il predicatore.md",
-    "Articoli di Giornale/4) 10 Ottobre 1927 - Pendleton si barrica a Cider Lake con i suoi ultimi seguaci.md",
-    "Articoli di Giornale/3) 10 Marzo 1927 - Pendleton e i suoi ultimi discepoli si ritirano a Cider Lake.md",
-    "Articoli di Giornale/2) 12 Maggio 1925 - Nasce la Chiesa dell’Ultima Voce.md",
+    "Handout/Articoli di Giornale/6) 15 Febbraio 1928 - Continuano le Ricerche a Cider Lake.md",
+    "Handout/Diario Fedelissimo.md",
+    "Handout/Registro Peccati.md",
+    "Handout/Canto dell'Eco.md",
+    "Handout/Atto di Acquisto della Baita.md",
     "img/albero genealogico Lymann.drawio (1).png",
-    "Articoli di Giornale",
-    "NPC/Lewis Lukas Lymann.md",
-    "NPC/Lukas Lymann.md",
-    "Chiesa dell'Ultima Voce/Chiesa dell'Ultima Voce.md",
-    "NPC/Fedelissimo 3.md",
-    "NPC/Fedelissimo 1.md",
     "Untitled",
-    "NPC/Fedelissimo 2.md",
+    "Lore.md",
+    "Diagramma senza titolo-piano terra.drawio.png",
+    "Ambientazione.md",
+    "NPC/Lewis Lukas Lymann.md",
+    "NPC/Phineas Pendleton (Preacher Pendleton).md",
+    "Handout",
+    "NPC/Lukas Lymann.md",
+    "NPC/Fedelissimi/Samuel Shepard.md",
+    "NPC/Fedelissimi/Kaylee Krane.md",
+    "NPC/Fedelissimi/Ezekiel Elias Ember.md",
+    "Handout/Articoli di Giornale/6) 28 Dicembre 1927 - Tormenta su Cider Lake scompare il predicatore.md",
+    "Untitled.canvas",
+    "NPC/Fedelissimi",
+    "Handout/Articoli di Giornale/7) 17 Giugno 1930 - La proprietà di Cider Lake ceduta a privato cittadino.md",
+    "Chiesa dell'Ultima Voce/Chiesa dell'Ultima Voce.md",
+    "Handout/Diario di Pendleton/Diario di Pendleton.md",
+    "Handout/Articoli di Giornale/1) 15 ottobre 1921 - Misterioso predicatore raduna folle in piazzaF.md",
+    "Diario di Pendleton/Untitled",
+    "Handout/Diario di Pendleton",
+    "Handout/Diario di Lewis/Diario di Lewis Lymann.md",
+    "img",
+    "Handout/Diario di Lewis",
+    "Handout/Articoli di Giornale/5) 29 Settembre 1927 - Scontro tra autorità e fedeli arresti a Cider Lake.md",
+    "Handout/Articoli di Giornale/4) 10 Ottobre 1927 - Pendleton si barrica a Cider Lake con i suoi ultimi seguaci.md",
+    "Handout/Articoli di Giornale/3) 10 Marzo 1927 - Pendleton e i suoi ultimi discepoli si ritirano a Cider Lake.md",
+    "Handout/Articoli di Giornale/2) 12 Maggio 1925 - Nasce la Chiesa dell’Ultima Voce.md",
+    "Handout/Articoli di Giornale",
     "Chiesa dell'Ultima Voce",
     "NPC"
   ]

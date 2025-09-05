@@ -1,3 +1,11 @@
+| Sesso            | ♂                     |
+| ---------------- | --------------------- |
+| Data di Nascita  | 12 Agosto 1960        |
+| Città di Nascita | Providence            |
+| Nazionalità      | Tedesco (nato in USA) |
+| Status Sociale   | Alta Borghesia        |
+| Età              | 16 anni               |
+
 Riceve un pendolo di cristallo da un uomo carismatico dalla carnagione olivastra.
 Il pendolo gli trasmette delle visioni apocalittiche.
 Inizia così a predicare, circondandosi di fedeli, e creando la [[Chiesa dell'Ultima Voce]].
