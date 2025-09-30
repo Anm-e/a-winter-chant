@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore.md",
+                "file": "NPC/Michel Montmartre.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lore"
+              "title": "Michel Montmartre"
             }
           }
         ]
@@ -171,6 +171,8 @@
   },
   "active": "fe84e724d8e7061c",
   "lastOpenFiles": [
+    "Lore.md",
+    "NPC/Michel Montmartre.md",
     "Ambientazione.md",
     "Handout/Articoli di Giornale/4) 10 Ottobre 1927 - Pendleton si barrica a Cider Lake con i suoi ultimi seguaci.md",
     "NPC/Fedelissimi/Samuel Shepard.md",
@@ -183,7 +185,6 @@
     "Handout/Canto dell'Eco.md",
     "Handout/Atto di Acquisto della Baita.md",
     "Untitled",
-    "Lore.md",
     "Diagramma senza titolo-piano terra.drawio.png",
     "NPC/Phineas Pendleton (Preacher Pendleton).md",
     "Handout",
